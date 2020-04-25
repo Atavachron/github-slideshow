@@ -3,5 +3,5 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 
-Your text
+Farewell, and thank you for the fish.
 Use the left arrow to go back!
